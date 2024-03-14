@@ -89,7 +89,7 @@ fun IMCScreen(){
         mutableStateOf(0.0)
     }
     var imcStatus by remember {
-        mutableStateOf(Pair("",0xff4caf50))
+        mutableStateOf(Pair("Informe os dados acima",0xff2196f3))
     }
 
 
