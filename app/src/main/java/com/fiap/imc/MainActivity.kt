@@ -113,7 +113,7 @@ fun IMCScreen(){
                 navigationIcon = {
                     Image(
                         painter = painterResource(id = R.drawable.imc),
-                        contentDescription = "Ícone de IMC",
+                        contentDescription = "Icone de IMC",
                         modifier = Modifier
                             .padding(10.dp)
                             .size(40.dp)
